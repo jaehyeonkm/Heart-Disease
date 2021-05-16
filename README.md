@@ -5,7 +5,7 @@ The goal of this analysis is to use the provided data in order to create tool th
 
 ## Files and Directories
 - `analysis_new.Rmd`: R Markdown file used for reporting the results of the analysis.
-- - `analysis_new.html`: R Markdown file rendered into a html file.
+- `analysis_new.html`: R Markdown file rendered into a html file.
 - `check-data.R`: An R script used to validate the created data. Contains hints for dealing with the missing data.
 - `data/hd.csv`: The data as created by the `make-data.R` script.
 - `heart-analysis.Rproj`: An RStudio project file.
