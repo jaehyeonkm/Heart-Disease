@@ -4,11 +4,12 @@
 The goal of this analysis is to use the provided data in order to create tool that can be used to screen for heart disease.
 
 ## Files and Directories
-- `make-data.R`: The R script used to scrape and wrangle the data.
+- `analysis_new.Rmd`: R Markdown file used for reporting the results of the analysis.
+- - `analysis_new.html`: R Markdown file rendered into a html file.
 - `check-data.R`: An R script used to validate the created data. Contains hints for dealing with the missing data.
-- `analysis_new.Rmd`: A R Markdown file used for reporting the results of the analysis.
 - `data/hd.csv`: The data as created by the `make-data.R` script.
 - `heart-analysis.Rproj`: An RStudio project file.
+- `make-data.R`: The R script used to scrape and wrangle the data.
 
 ## Requirements:
 ```
